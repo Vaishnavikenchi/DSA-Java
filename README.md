@@ -1,4 +1,4 @@
-# 🚀 DSA in Java (Daily Practice)
+# 🚀 DSA in Java 
 
 This repository contains my daily Data Structures & Algorithms practice in Java.
 
