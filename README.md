@@ -5,4 +5,4 @@ This repository contains my daily Data Structures & Algorithms practice in Java.
 ## 📂 Topics Covered
 - Arrays
 - Stack
-  
+-Linked List
